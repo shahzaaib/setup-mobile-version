@@ -1,0 +1,61 @@
+body {
+  background-image: url('Header\ bg@2x.png');
+}
+
+.top-navigation {
+  position: static;
+  width: 76px;
+  height: 20px;
+  left: 12px;
+  top: 10px;
+  display: flex;
+  color: #6070ff;
+}
+
+.header {
+  position: static;
+  float: right;
+  width: 76px;
+  height: 20px;
+  left: 12px;
+  top: 10px;
+  display: flex;
+  color: #6070ff;
+}
+
+.profile {
+  color: #091e42;
+  display: flex;
+  margin: 10px;
+  text-align: center;
+  padding: 5px;
+}
+
+.profile h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 50px;
+  display: flex;
+  margin: 20px 0 0 300px;
+  height: 120px;
+  width: 500px;   
+}
+
+.profile p {
+  text-align: center;
+  color: #344563;
+  position: static;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px; 
+  margin: 120px 0 0 0px; 
+  width: 650px;
+}
+
+.backimg {
+  margin-left: 600px;
+}
